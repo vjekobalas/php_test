@@ -1,0 +1,17 @@
+{
+    "name": "bed2022/app",
+    "description": "DB access",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Core\\": "libs/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vjekoslav Balas",
+            "email": "vjekobalas@hotmail.com"
+        }
+    ],
+    "require": {}
+}
